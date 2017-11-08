@@ -10,6 +10,4 @@ Welcome to jira-ftp-downloader!
 Usage
 -------------
 
->  Usage: ./manual_fetch.py [options]
-
->  Example: ./manual_fetch.py -s 192.168.1.1 -u root -p 123123 -c download/files -f list.txt
+>  Usage: ./main.py
