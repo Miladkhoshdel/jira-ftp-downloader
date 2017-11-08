@@ -12,8 +12,8 @@ Usage
 
 StackEdit stores your documents in your browser, which means all your documents are automatically saved locally and are accessible **offline!**
 
->   Usage: ./manual_fetch.py [options]
->
+  Usage: ./manual_fetch.py [options]
+
   Options: -s, --server    hostname/ip   |   Host
            -u, --user      user          |   User
            -p, --password  password>     |   Password
